@@ -1,3 +1,3 @@
 # bryan-skills
 
-Bryan's open-source skills. Feel free to copy.
+Bryan's open-source skills for Claude Code. Feel free to copy.
